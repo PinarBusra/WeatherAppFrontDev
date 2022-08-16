@@ -1,3 +1,31 @@
+
+## 
+
+
+
+
+-- This project is coded by Angular CLI VERSION 14.1.2
+-- To run this project , you must install node.js (https://nodejs.org/en/download/).I used latest version of it.
+-- Then you must install vs code (I used 1.70.1)
+-- After setup vs code ,open terminal from vs code and run this command for install npm (npm install -g @angular/cli@latest)
+-- You must copy  link  from github and clone repository in vs code.
+-- Finally in WeatherAppFront folder ,click right and select open integrated terminal.Run  command ng serve.
+-- To send request backend , your backend project must be running.If it running , go to adress http://localhost:4200/ and select a city ,click find weather button.
+   
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
 # WeatherAppFront
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.

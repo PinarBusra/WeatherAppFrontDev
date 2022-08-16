@@ -1,0 +1,69 @@
+
+
+.example-button-row {
+    
+    text-align: center;
+    
+}
+
+.example-dropdown-row{
+    text-align: center;
+    padding-top: 100px;
+    height: 150px;
+}
+
+.place-holder{
+    text-align: center;
+    padding-top: 20px;
+    height: 80px;
+}
+
+.example-dropdown-select{
+    width: 300px;
+    background-color: #f1f1f1;
+    height:40px;
+    border-radius:25px;
+    text-align:center
+}
+.mat-toolbar-single-row{
+   width: 700px;
+   margin-left: 400px;
+   border-radius:25px;
+   
+   
+   
+}
+
+.title{
+    margin:auto;
+}
+.weather-form{
+    width: 700px;
+}
+
+.container{
+    padding-left: 550px;
+    padding-top: 90px;
+}
+
+table, th , td {
+    border: 1px solid grey;
+    border-collapse: collapse;
+    padding: 5px;
+    
+  }
+  
+  table tr:nth-child(odd) {
+    background-color: #f1f1f1;
+  }
+  
+  table tr:nth-child(even) {
+    background-color: #ffffff;
+  }
+
+.app-div
+{
+    background-color:lightsteelblue;
+    height:100%
+}
+

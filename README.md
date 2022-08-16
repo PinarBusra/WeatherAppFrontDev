@@ -12,6 +12,20 @@
 -- Finally in WeatherAppFront folder ,click right and select open integrated terminal.Run  command ng serve.
 -- To send request backend , your backend project must be running.If it running , go to adress http://localhost:4200/ and select a city ,click find weather button.
    
+   
+   If you take an error these libraries below , you can use commands below.
+   import {HttpClientModule} from '@angular/common/http';
+   import {MatButtonModule} from '@angular/material/button';
+   import {MatToolbarModule} from '@angular/material/toolbar';
+   import {MatFormFieldModule} from '@angular/material/form-field';
+   import {MatTableModule} from '@angular/material/table';
+   import { FormsModule, ReactiveFormsModule } from '@angular/forms';  
+   
+   npm install @angular/common/http
+   ng add @angular/material
+   npm install @angular/forms --save
+   
+
 
 
  
